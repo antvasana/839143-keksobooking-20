@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Татьяна Гурьева](https://up.htmlacademy.ru/javascript/20/user/839143).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим Деев`.
 
 ---
 
